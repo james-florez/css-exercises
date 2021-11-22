@@ -1,0 +1,11 @@
+/* style.css */
+/* external linking practice */
+
+div {
+
+    background-color:red;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight:700; /* bold */
+}
